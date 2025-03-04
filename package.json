@@ -1,0 +1,12 @@
+{
+  "name": "incruiter-project",
+  "version": "1.0.0",
+  "description": "An user authentication project for incruiter  ",
+  "license": "ISC",
+  "author": "Aditya Patil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
