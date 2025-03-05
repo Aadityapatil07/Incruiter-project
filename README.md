@@ -46,8 +46,6 @@ MONGODB_URI=mongodb+srv://Adityapatil:Aditya24@cluster0.1nrty.mongodb.net/Incrui
 ### 4️⃣ Start the Server
 ```sh
 npm run dev  # If using nodemon
-# OR
-node server.js
 ```
 The API will run on `http://localhost:8000`
 
